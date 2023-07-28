@@ -3,8 +3,8 @@
 Repository for the ECAI 2023 paper **PLEASE: Generating Personalized Explanations in Human-Aware Planning**.
 
 ## Includes: 
-1. Supplemen.
-2. Code.
+1. Supplement
+2. Code
 
 ### 1. Supplement:
 Contains additional information referenced in the main paper.
